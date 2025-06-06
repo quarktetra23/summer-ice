@@ -6,5 +6,8 @@ Run it on Terminal:
 1. export OPEN_API KEY="your key"
 2. streamlit run sumice.py
 
-New Feature Added:
-Ability to generate an image 
+Updates Made:
+1. Ability to generate an image
+2. Split the summary and image generation fucntions into different files 
+
+
