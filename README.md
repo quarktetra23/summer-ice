@@ -3,6 +3,7 @@ Summarizing PDF content with Open AI- Basic practise to get an understanding of 
 
 Run it on Terminal:
 export OPEN_API KEY="your key"
+
 streamlit run sumice.py
 
 New Feature Added:
